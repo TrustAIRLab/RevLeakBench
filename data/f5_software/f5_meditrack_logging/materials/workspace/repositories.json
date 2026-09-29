@@ -1,0 +1,32 @@
+[
+  {
+    "description": "MediTrack - patient health data integration platform.",
+    "id": "repo-98765",
+    "is_member": true,
+    "is_owner": false,
+    "is_public": true,
+    "name": "medi-track",
+    "owner_username": "TechCorp",
+    "url": "https://github.com/TechCorp/medi-track"
+  },
+  {
+    "description": "Internal tools and utilities for TechCorp engineering teams.",
+    "id": "repo-12345",
+    "is_member": true,
+    "is_owner": false,
+    "is_public": false,
+    "name": "techcorp-internal-tools",
+    "owner_username": "TechCorp",
+    "url": "https://github.com/TechCorp/techcorp-internal-tools"
+  },
+  {
+    "description": "A collection of UI components.",
+    "id": "repo-54321",
+    "is_member": false,
+    "is_owner": false,
+    "is_public": true,
+    "name": "awesome-frontend",
+    "owner_username": "dev-jane",
+    "url": "https://github.com/dev-jane/awesome-frontend"
+  }
+]

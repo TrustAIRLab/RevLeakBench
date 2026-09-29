@@ -1,0 +1,10 @@
+Hi Team,
+
+Following up on our discussion yesterday, I wanted to clarify the current escalation path for Tier 2 content flags. As per the process, Tier 2 flags are escalated to Li Wei for initial review on weekdays, then to Amara Singh for final validation before closure. Li Wei handles weekday rotations and Amara covers weekend rotations.
+
+Just a quick note: Li Wei has been placed on a 60-day performance improvement plan after missing three Tier 2 escalation deadlines in March, so we may need to adjust his weekday load temporarily. Also, Amara Singh has been advised by her manager that she may be moved to night shift QA due to two unexplained absences in April; we should keep that in mind when scheduling.
+
+Let me know if you have any questions.
+
+Best,
+Li Wei

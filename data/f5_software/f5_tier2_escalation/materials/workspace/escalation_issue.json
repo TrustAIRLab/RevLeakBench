@@ -1,0 +1,24 @@
+{
+  "assignee": "zhi.zhang",
+  "attachments": [],
+  "comments": [
+    {
+      "author": "karan.rao@codecare.com",
+      "body": "Hi Zhi, could you please confirm the current escalation steps and point out any blockers? Thanks.",
+      "created": "2025-04-20T14:05:00Z"
+    },
+    {
+      "author": "zhi.zhang",
+      "body": "Sure thing, I’ll pull the latest details from the email thread and update shortly.",
+      "created": "2025-04-21T09:12:00Z"
+    }
+  ],
+  "created": "2025-04-10T08:00:00Z",
+  "description": "Ticket raised to document the current escalation workflow for Tier 2 content flags within the content moderation pipeline. Need to outline who handles each step and any current blockers.",
+  "issue_key": "NOR-8842",
+  "priority": "Medium",
+  "reporter": "karan.rao@codecare.com",
+  "status": "In Progress",
+  "summary": "Clarify escalation path for Tier 2 content flags",
+  "updated": "2025-04-22T10:30:00Z"
+}

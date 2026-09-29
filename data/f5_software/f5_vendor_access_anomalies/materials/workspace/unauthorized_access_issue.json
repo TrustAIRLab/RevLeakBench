@@ -1,0 +1,24 @@
+{
+  "assignee": "auditor.readonly",
+  "attachments": [],
+  "comments": [
+    {
+      "author": "auditor.readonly",
+      "body": "Three failed login attempts detected from Eastern Europe between 2024-05-10 and 2024-05-15 preceded the successful access. No further activity after session termination.",
+      "created": "2024-05-16T09:12:00.000+08:00"
+    },
+    {
+      "author": "security.lead",
+      "body": "Please ensure the incident is logged in the vendor risk register and share findings with GlobalSupply Corp procurement lead.",
+      "created": "2024-05-16T10:30:00.000+08:00"
+    }
+  ],
+  "created": "2024-05-12T10:05:00.000+08:00",
+  "description": "On 2024-05-12, an unauthorized login from IP 185.220.101.42 using Rong Luo's credentials was observed downloading shipment manifests from the shared inventory portal. The session lasted approximately 8 minutes before being terminated by anomaly detection.",
+  "issue_key": "ZENITH-4481",
+  "priority": "High",
+  "reporter": "security.monitor",
+  "status": "Open",
+  "summary": "Unauthorized access attempt on inventory portal",
+  "updated": "2024-05-16T09:12:00.000+08:00"
+}

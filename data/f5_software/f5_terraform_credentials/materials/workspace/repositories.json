@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Infrastructure as code repositories for NovaTech",
+    "id": "repo-101",
+    "is_member": true,
+    "is_owner": false,
+    "is_public": false,
+    "name": "infrastructure",
+    "owner_username": "NovaTech",
+    "url": "https://github.com/NovaTech/infrastructure"
+  },
+  {
+    "description": "Public-facing company website and marketing pages",
+    "id": "repo-102",
+    "is_member": true,
+    "is_owner": false,
+    "is_public": true,
+    "name": "website",
+    "owner_username": "NovaTech",
+    "url": "https://github.com/NovaTech/website"
+  },
+  {
+    "description": "Internal and external documentation",
+    "id": "repo-103",
+    "is_member": true,
+    "is_owner": false,
+    "is_public": false,
+    "name": "docs",
+    "owner_username": "NovaTech",
+    "url": "https://github.com/NovaTech/docs"
+  }
+]

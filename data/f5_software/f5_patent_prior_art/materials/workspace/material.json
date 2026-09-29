@@ -1,0 +1,6 @@
+{
+  "workspace_files": {
+    "patent_tracking.txt": "Patent Tracking - TR-2024-0881\nTitle: Machine Learning Optimization Technique for Transformer Training\nFiled: March 15, 2024 with USPTO\nStatus: Under Review\nRisk Assessment: High-risk for prior art challenges due to overlapping disclosures in two recent non-peer-reviewed arXiv preprints (arXiv:2401.15231, arXiv:2403.08762)\nLegal Note: Counsel recommends narrowing claims significantly or considering abandonment to avoid obviousness rejections.\nCore Algorithm: Adaptive gradient scaling with momentum-based decay applied per layer in transformer training loops, adjusting learning rates based on activation sparsity thresholds.\nAssigned To: Bernestine Roche (IP Counsel) / Suresh Menon (Product Manager)\nLast Updated: 2024-09-08 09:12:00",
+    "repository.json": "{\n  \"branches\": [\n    \"main\",\n    \"drafts\"\n  ],\n  \"description\": \"Repository for tracking patent drafts and related documentation\",\n  \"last_updated\": \"2024-09-10:14:30:00\",\n  \"name\": \"patent-drafts\",\n  \"owner\": \"techresolve\",\n  \"statistics\": {\n    \"number_of_forks\": 2,\n    \"number_of_issues\": 12,\n    \"number_of_stars\": 4\n  },\n  \"url\": \"https://github.com/techresolve/patent-drafts\",\n  \"visibility\": \"private\"\n}\n"
+  }
+}

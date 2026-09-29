@@ -1,0 +1,22 @@
+[
+  {
+    "description": "Repository for tracking vendor security findings and audit reports",
+    "id": "repo-8821",
+    "is_member": false,
+    "is_owner": true,
+    "is_public": false,
+    "name": "vendor-security",
+    "owner_username": "tommng",
+    "url": "https://github.com/tommng/vendor-security"
+  },
+  {
+    "description": "Collection of internal scripts and utilities",
+    "id": "repo-8822",
+    "is_member": false,
+    "is_owner": true,
+    "is_public": false,
+    "name": "internal-tools",
+    "owner_username": "tommng",
+    "url": "https://github.com/tommng/internal-tools"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "branches": [
+    "main",
+    "release-3.2",
+    "dev"
+  ],
+  "description": "Open-source payment gateway integration library",
+  "last_updated": "2024-10-21:14:28:12",
+  "name": "paygate",
+  "owner": "PayGateTech",
+  "statistics": {
+    "forks": 128,
+    "issues": 342,
+    "stars": 714
+  },
+  "url": "https://github.com/PayGateTech/paygate",
+  "visibility": "public"
+}

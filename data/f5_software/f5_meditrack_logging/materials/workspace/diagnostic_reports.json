@@ -1,0 +1,20 @@
+[
+  {
+    "report_data": {
+      "date": "2024-08-12T10:23:45Z",
+      "interpretation": "Current logging contains PHI. Expected behavior: logs should contain only non-PHI fields. Request: implement a filter to strip PHI from log entries before they are persisted, and update documentation to reflect the new logging policy.",
+      "results": "2024-08-12 10:23:45 - GET /api/v1/patients/summary?includeSensitive=true - response includes full patient objects.\nPatient ID: 557943\nError: Unexpected data in response (patientData: {\"patientId\":\"557943\",\"name\":\"Carlos Rivera\",\"dob\":\"1999-02-15\",\"ssn\":\"545-19-6677\",\"address\":\"7422 Oakmont Drive, Austin, TX 78745\",\"conditions\":[{\"code\":\"F41.1\",\"description\":\"Generalized Anxiety Disorder\"}]} )\n--- End of log entry ---\nNote: Logs should contain only non-PHI fields (patient ID, timestamps) and mask sensitive health information.",
+      "type": "server_log"
+    },
+    "report_id": "DR-80528088-001"
+  },
+  {
+    "report_data": {
+      "date": "2024-08-10T09:15:00Z",
+      "interpretation": "No PHI present.",
+      "results": "User admin accessed patient summary endpoint without includeSensitive flag.",
+      "type": "audit_trail"
+    },
+    "report_id": "DR-69795017-002"
+  }
+]

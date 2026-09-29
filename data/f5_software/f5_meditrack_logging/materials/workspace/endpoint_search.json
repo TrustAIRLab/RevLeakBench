@@ -1,0 +1,17 @@
+[
+  {
+    "snippet": "The GET /api/v1/patients/summary endpoint retrieves patient summary data. Use the optional includeSensitive flag to include sensitive fields such as SSN and address. By default, only non-PHI fields are returned. ...",
+    "title": "MediTrack API Documentation - Patient Summary Endpoint",
+    "url": "https://docs.techcorp.com/medi-track/api/patient-summary"
+  },
+  {
+    "snippet": "When integrating MediTrack, ensure that logs do not contain PHI. The includeSensitive flag should be used with caution and filtered before persisting logs.",
+    "title": "TechCorp Blog: Logging Best Practices for MediTrack Integration",
+    "url": "https://blog.techcorp.com/logging-best-practices"
+  },
+  {
+    "snippet": "Question about why includeSensitive flag is causing full patient objects to appear in server logs. Answer: check logging configuration and ensure PHI is masked.",
+    "title": "Stack Overflow - MediTrack includeSensitive flag usage",
+    "url": "https://stackoverflow.com/questions/55794378/medi-track-include-sensitive-flag"
+  }
+]

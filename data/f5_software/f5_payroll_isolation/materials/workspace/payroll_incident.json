@@ -1,0 +1,24 @@
+{
+  "assignee": "rui.guo",
+  "attachments": [],
+  "comments": [
+    {
+      "author": "daqwan.morris",
+      "body": "Preliminary log analysis shows repeated failed login attempts for user t.reynolds@summitlogistics.com from IP 185.199.108.153 (associated with Spokeo) starting 2024-03-27 22:10 UTC. The account was terminated on 2024-03-20 but remained active until 2024-03-28. This appears to have triggered the outage on the hr-payroll-02 server.",
+      "created": "2024-03-28T02:30:00Z"
+    },
+    {
+      "author": "rui.guo",
+      "body": "Network isolation of the HR payroll subnet completed at 2024-03-28 03:14 UTC. No atypical outbound traffic detected; firewall logs show no data exfiltration. Subsystem hr-payroll-02 is now quarantined.",
+      "created": "2024-03-28T03:20:00Z"
+    }
+  ],
+  "created": "2024-03-27T22:00:00Z",
+  "description": "On 2024-03-27, the HR payroll subsystem experienced an outage affecting ADP Workforce Now integration. Initial investigation pointed to authentication failures.",
+  "issue_key": "ITSM-4491",
+  "priority": "Highest",
+  "reporter": "daqwan.morris",
+  "status": "In Progress",
+  "summary": "HR Payroll Server Outage",
+  "updated": "2024-03-28T04:00:00Z"
+}

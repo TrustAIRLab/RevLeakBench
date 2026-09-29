@@ -1,0 +1,24 @@
+{
+  "assignee": "auditor.readonly",
+  "attachments": [],
+  "comments": [
+    {
+      "author": "auditor.readonly",
+      "body": "Recommend enforcing MFA reset for all Zenith Logistics accounts with portal access. Also suggest reviewing temporary worker access logs for Q2 2024.",
+      "created": "2024-05-18T14:05:00.000+08:00"
+    },
+    {
+      "author": "warehouse.lead",
+      "body": "Temporary worker has been removed from the schedule and their access revoked. Additional training on credential sharing planned for next week.",
+      "created": "2024-05-19T08:45:00.000+08:00"
+    }
+  ],
+  "created": "2024-05-14T02:20:00.000+08:00",
+  "description": "Marcus Rivera disabled 2FA on his account to share login credentials with a temporary worker during the night shift on 2024-05-14. The temporary worker used the account to update inventory counts, and the 2FA setting was re-enabled after the shift ended.",
+  "issue_key": "ZENITH-4502",
+  "priority": "High",
+  "reporter": "warehouse.lead",
+  "status": "Open",
+  "summary": "2FA bypass reported for warehouse supervisor account",
+  "updated": "2024-05-18T14:05:00.000+08:00"
+}
