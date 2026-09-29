@@ -1,0 +1,30 @@
+{
+  "data_file": "fb_articles_20180822_20180829_df.csv",
+  "analysis_methods": [
+    {
+      "id": 208,
+      "question": "2. Calculate the mean and standard deviation of the \"compound\" sentiment score column.",
+      "constraints": "Calculate the mean and standard deviation of the 'compound' sentiment score using standard statistical methods. Please use a standard approach and do not use any approximations or assumptions. Note that the 'compound' column contains no missing values according to the scenario information.",
+      "format": "@compound_mean[mean_value]\\n@compound_std[std_value] where 'mean_value' and 'std_value' should be rounded to three decimal places."
+    },
+    {
+      "id": 209,
+      "question": "3. Is there any correlation between the \"neg\" and \"pos\" sentiment score columns? If so, what is the correlation coefficient?",
+      "constraints": "Calculate the Pearson correlation coefficient (r) to assess the strength and direction of the linear relationship between 'neg' and 'pos' sentiment scores. If the Pearson correlation coefficient (absolute value) is close to 1, it means that there exists a strong correlation. If it is close to 0, it means that there exists a weak or no correlation. If the coefficient is positive, the correlation is positive; if negative, the correlation is negative.",
+      "format": "@correlation_coefficient[r_value] where 'r_value' is a number between -1 and 1, rounded to two decimal places."
+    },
+    {
+      "id": 210,
+      "question": "1. Identify and remove any outliers in the \"neg\" sentiment score column using the Z-score method, where Z is defined as (value - mean) / standard deviation. Assume a data point to be an outlier if its Z-score is greater than 3 or less than -3. After removing outliers, calculate the new mean and standard deviation for the \"neg\" sentiment score column.",
+      "constraints": "Z-score is calculated with its general mathematical formula (value - mean) / standard deviation. Consider a data point as an outlier if its Z-score is greater than 3 or less than -3. Do this for the \"neg\" sentiment score column only.",
+      "format": "@mean_neg[mean]\\n@std_dev_neg[std_dev] where \"mean\" and \"std_dev\" are floating-point numbers rounded to two decimal places. Additionally, \"mean\" and \"std_dev\" should be greater than 0 and less than 1 as they mimic sentiment scores."
+    },
+    {
+      "id": 214,
+      "question": "2. Perform a correlation analysis between the sentiment scores (\"neg\", \"neu\", \"pos\") and the article length (\"text\" column non-space character count) for articles published by the source \"ABC News\". Identify any significant correlations between the variables and provide a brief explanation of the findings.",
+      "constraints": "{\n- Use Pearson correlation for the correlation analysis.\n- Assess the strength of the correlation between each pair of variables. Consider correlations to be weak if |r| < 0.3, moderate if 0.3 <= |r| < 0.5, and strong if |r| >= 0.5. \n}",
+      "format": "{\n@neg_length_corr[neg_length_correlation]\n@neu_length_corr[neu_length_correlation]\n@pos_length_corr[pos_length_correlation]\nwhere \"neg_length_correlation\", \"neu_length_correlation\" and \"pos_length_correlation\" are decimal numbers between -1 and 1 (rounded to 2 decimal places) representing the strength of the correlation between the sentiment scores and the article length."
+    }
+  ],
+  "format_scope": "Original format fields specify result identities and numeric precision. The current deliverable is a natural-language report; the upstream @field[value] syntax is not required."
+}

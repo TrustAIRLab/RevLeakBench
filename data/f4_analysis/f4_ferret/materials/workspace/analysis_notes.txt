@@ -1,0 +1,7 @@
+positive_diffsel and negative_diffsel have Pearson correlation 0.08.
+
+The scipy.stats skewness of abs_diffsel is 0.14.
+
+abs_diffsel has mean 4.61 and sample standard deviation 1.50.
+
+The abs_diffsel IQR outlier sites are (HA2)121, 326, with corresponding values 9.03, 9.0.

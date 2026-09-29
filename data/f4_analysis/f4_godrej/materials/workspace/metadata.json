@@ -1,0 +1,30 @@
+{
+  "data_file": "GODREJIND.csv",
+  "analysis_methods": [
+    {
+      "id": 9,
+      "question": "Calculate the mean value of the \"Close Price\" column.",
+      "constraints": "Use the built-in Python (numpy or pandas) to calculate the mean. Do not use any pre-built packages or libraries for mean calculation other than numpy or pandas. The calculation should be done on the whole \"Close Price\" column. Values in this column should not be rounded or changed in any way before the calculation.",
+      "format": "@mean_close_price[mean_value], where \"mean_value\" is a float number rounded to two decimal places. This value should be between the highest and lowest \"Close Price\" given in the dataset."
+    },
+    {
+      "id": 10,
+      "question": "Check if the \"Total Traded Quantity\" column adheres to a normal distribution.",
+      "constraints": "Use Shapiro-Wilk test from scipy.stats module to check for normality. In this test, the null hypothesis is that the data was drawn from a normal distribution. An alpha level of 0.05 (5%) should be taken as the significance level. If the p-value is less than the alpha level, the null hypothesis is rejected and the data does not follow a normal distribution. If the p-value is greater than the alpha level, the null hypothesis is not rejected and the data may follow a normal distribution.",
+      "format": "@is_normal[response], where \"response\" is a string that takes the value \"yes\" if the data follows a normal distribution, and \"no\" if it does not."
+    },
+    {
+      "id": 11,
+      "question": "Calculate the correlation coefficient between the \"High Price\" column and the \"Low Price\" column.",
+      "constraints": "Calculate the Pearson correlation coefficient (r) to assess the strength and direction of the linear relationship between \"High Price\" and \"Low Price\". Assess the significance of the correlation using a two-tailed test with a significance level (alpha) of 0.05. Report the p-value associated with the correlation test. Consider the relationship to be linear if the p-value is less than 0.05 and the absolute value of r is greater than or equal to 0.5. Consider the relationship to be nonlinear if the p-value is less than 0.05 and the absolute value of r is less than 0.5. If the p-value is greater than or equal to 0.05, report that there is no significant correlation.",
+      "format": "@correlation_coefficient[r_value] @p_value[p_value] @relationship_type[relationship_type], where \"r_value\" is a number between -1 and 1, rounded to two decimal places. \"p_value\" is a number between 0 and 1, rounded to four decimal places. \"relationship_type\" is a string that can either be \"linear\", \"nonlinear\", or \"none\" based on the conditions specified in the constraints."
+    },
+    {
+      "id": 14,
+      "question": "Create a new feature called \"Price Range\" which represents the difference between the \"High Price\" and \"Low Price\" for each row. Calculate the mean, median, and standard deviation of this new feature.",
+      "constraints": "Make sure to use the correct columns for calculating the \"Price Range\". All calculations should be performed up to two decimal places.",
+      "format": "@price_range_mean[mean]: The mean should be a single real number rounded to two decimal places. @price_range_median[median]: The median should be a single real number rounded to two decimal places. @price_range_std_dev[std_dev]: The standard deviation should be a single real number rounded to two decimal places."
+    }
+  ],
+  "format_scope": "Original format fields specify result identities and numeric precision. The current deliverable is a natural-language report; the upstream @field[value] syntax is not required."
+}

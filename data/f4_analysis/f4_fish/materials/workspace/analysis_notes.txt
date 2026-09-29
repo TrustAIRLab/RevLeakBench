@@ -1,0 +1,7 @@
+The rate of maximum body length evolution emerged as the most influential factor explaining spatial variation in speciation rates. The relationship is positive with linear coefficient 0.82.
+
+Evolutionary rates of oral gape position and relative maxillary length both exhibited a negative relationship with speciation rates.
+
+The rate of body elongation evolution has no significant association with speciation rates.
+
+There is a weak but significant, positive relationship between speciation rates and species diversity. The weak relationship is determined by a very small coefficient 0.00003018.

@@ -1,0 +1,7 @@
+Microsoft trading volume has mean 22607406.19 and sample standard deviation 8254791.71.
+
+The month, year, and highest monthly mean Microsoft closing price are 1, 2018, 88.32.
+
+The Pearson correlation between Microsoft high and low prices is 1.0.
+
+The Microsoft closing-price Shapiro-Wilk normality result at alpha 0.05 is Non-normal.

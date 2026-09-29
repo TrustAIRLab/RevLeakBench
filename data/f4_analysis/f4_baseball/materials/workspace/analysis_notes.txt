@@ -1,0 +1,7 @@
+Doubles hit and salary have Pearson correlation 0.58.
+
+Mean runs are 57.41 for free-agency-eligible players and 39.63 for ineligible players.
+
+Batting average minus on-base percentage has mean -0.07 and sample standard deviation 0.03.
+
+The players with recorded batting averages have mean batting average 0.258.

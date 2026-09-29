@@ -1,0 +1,11 @@
+Individuals from smaller families are more likely to complete a BA degree.
+
+There is no significant difference in degree completion rates based on sex of an individual.
+
+Socioeconomic status (SES) is a significant predictor of BA degree completion. SES has a positive relationship with college degree completion with a coefficient of 0.4729.
+
+At higher levels of academic ability, the advantage of higher socioeconomic status may be less pronounced, as indicated by a negative coefficient of -0.0010 for the interaction between socioeconomic status and academic ability.
+
+Academic ability mediates the relationship between socioeconomic status (SES) and degree completion with the ACME average of 0.026508.
+
+There is a racial differential in BA degree completion rates between Black and White students with a factor of -0.9568

@@ -1,0 +1,30 @@
+{
+  "data_file": "DES=+2006261.csv",
+  "analysis_methods": [
+    {
+      "id": 649,
+      "question": "1. Calculate the mean and standard deviation of the X-coordinate column.",
+      "constraints": "Use built-in Python functions to compute the mean and standard deviation, and round these values to three decimal places.",
+      "format": "@mean_x[mean] @std_dev_x[standard_deviation] where \"mean\" and \"standard_deviation\" are decimal numbers rounded to three decimal places."
+    },
+    {
+      "id": 650,
+      "question": "2. Is there any correlation between the X-coordinate and Y-coordinate columns? If so, what is the correlation coefficient?",
+      "constraints": "Use the Pearson Correlation Coefficient to find the correlation between the X and Y coordinates. Round the calculated correlation coefficient to three decimal places. If the absolute correlation coefficient is less than 0.05, assume the correlation is negligible and consider the correlation value as zero.",
+      "format": "@correlation_coefficient[correlation_coefficient_value] where \"correlation_coefficient_value\" is a decimal number between -1 and 1, rounded to three decimal places."
+    },
+    {
+      "id": 651,
+      "question": "3. Are there any outliers in the Z-coordinate column? If yes, how many outliers are there based on the quartile range method with a threshold of 1.5?",
+      "constraints": "Calculate the outliers using the interquartile range (IQR) method, where outliers are defined as observations that fall below Q1 - 1.5*IQR or above Q3 + 1.5*IQR. Do not remove any data while performing the outlier calculation.",
+      "format": "@outlier_count[outlier_number] where \"outlier_number\" is an integer representing the number of outliers in the data."
+    },
+    {
+      "id": 655,
+      "question": "1. Perform a correlation analysis on the X, Y, and Z coordinate columns. Calculate the Pearson correlation coefficients between the X and Y coordinates, and between the X and Z coordinates.",
+      "constraints": "Calculate the correlation coefficient (r) to assess the strength and direction of the linear relationship between the pairs of variables.\nReport the correlation coefficients for both pairs.",
+      "format": "@correlation_XY[r_value_XY]\n@correlation_XZ[r_value_XZ]\nwhere \"r_value_XY\" and \"r_value_XZ\" are numbers between -1 and 1, rounded to two decimal places."
+    }
+  ],
+  "format_scope": "Original format fields specify result identities and numeric precision. The current deliverable is a natural-language report; the upstream @field[value] syntax is not required."
+}

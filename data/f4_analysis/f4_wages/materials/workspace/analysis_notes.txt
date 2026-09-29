@@ -1,0 +1,7 @@
+The experience_score feature, exper multiplied by looks, has Pearson correlation 0.252 with wage.
+
+The specified twelve-feature wage regression has test RMSE 3.63 with a 70/30 split and random state 42.
+
+The wage-experience Pearson correlation is 0.23.
+
+Wage has mean 6.31 and sample standard deviation 4.66.

@@ -1,0 +1,30 @@
+{
+  "data_file": "baseball_data.csv",
+  "analysis_methods": [
+    {
+      "id": 243,
+      "question": "What is the mean batting average of the players in the dataset?",
+      "constraints": "Consider only the players who have a recorded batting average. Do not include the one player with a missing batting average into your calculation. Report your answer rounded off to three decimal places.",
+      "format": "@mean_batting_average[mean_batting_average] where \"mean_batting_average\" is a float between 0 and 1, rounded to three decimal places."
+    },
+    {
+      "id": 247,
+      "question": "What is the average number of runs scored by players who are eligible for free agency compared to players who are not eligible for free agency?",
+      "constraints": "Use the 'groupby' function on the 'indicator_of_free_agency_eligibility' column to group the data by whether a player is eligible for free agency or not. Then use the 'mean' function on the 'number_of_runs' column to find the average number of runs scored by these two groups of players.",
+      "format": "@average_runs_by_eligible_for_free_agency[average_runs]\\n@average_runs_by_not_eligible_for_free_agency[average_runs] where \"average_runs\" is a float rounded to two decimal places specifying the average number of runs scored by players who are eligible for free agency and players who are not eligible for free agency, respectively."
+    },
+    {
+      "id": 249,
+      "question": "Is there a significant correlation between the number of doubles hit by a player and their salary? If so, what is the correlation coefficient and p-value?",
+      "constraints": "Calculate the Pearson correlation coefficient (r) to assess the strength and direction of the linear relationship between the number of doubles hit and player's salary. Assess the significance of the correlation using a two-tailed test with a significance level (alpha) of 0.05. Report the p-value associated with the correlation test. Consider the relationship to be significant if the p-value is less than 0.05. If the p-value is greater than or equal to 0.05, report that there is no significant correlation.",
+      "format": "@correlation_coefficient[r_value] @p_value[p_value] where \"r_value\" is a number between -1 and 1, rounded to two decimal places. \"p_value\" is a number between 0 and 1, rounded to four decimal places."
+    },
+    {
+      "id": 250,
+      "question": "Create a new feature called \"batting_average_minus_on_base_percentage\" which represents the difference between a player's batting average and their on-base percentage. Calculate the mean and standard deviation of this new feature.",
+      "constraints": "To calculate the new feature, subtract each player's on-base percentage from their batting average. Ignore the missing values and areas with null values for batting average or on-base percentage. Calculate both the mean and standard deviation using these new feature values.",
+      "format": "@mean[mean_value] @std_dev[std_dev_value] where \"mean_value\" is the mean of the new feature, and \"std_dev_value\" is the standard deviation of the new feature. Both should be rounded to two decimal places."
+    }
+  ],
+  "format_scope": "Original format fields specify result identities and numeric precision. The current deliverable is a natural-language report; the upstream @field[value] syntax is not required."
+}

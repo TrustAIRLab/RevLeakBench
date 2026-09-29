@@ -1,0 +1,30 @@
+{
+  "data_file": "tree.csv",
+  "analysis_methods": [
+    {
+      "id": 551,
+      "question": "What is the mean of the DBH_CM column?",
+      "constraints": "Calculate the arithmetic mean of the 'DBH_CM' column. The answer should be rounded to the nearest hundredth. Do not consider missing values, outliers, or data error possibilities, as it was stated there are no missing values in this column and no further cleaning or preprocessing is needed for this problem.",
+      "format": "@mean_dbh_cm[mean_value] where 'mean_value' is a float number with two decimal values."
+    },
+    {
+      "id": 552,
+      "question": "Are the HT_M column and the BA_M2 column correlated?",
+      "constraints": "Calculate the Pearson correlation coefficient (r) to assess the strength and direction of the linear relationship between the 'HT_M' and 'BA_M2' columns. The answer should be rounded to the third decimal place. Consider the relationship to be linear if the absolute value of r is greater than or equal to 0.5. Consider the relationship to be non-linear if the absolute value of r is less than 0.5.",
+      "format": "@correlation_coefficient[r_value] @relationship_type[relationship_type] where 'r_value' is a float number between -1 and 1 with three decimal places and 'relationship_type' is a string that is either 'linear', 'nonlinear'."
+    },
+    {
+      "id": 553,
+      "question": "How many outliers are there in the TPH_PLT column?",
+      "constraints": "Detect outliers in the 'TPH_PLT' column using the IQR method, where observations that fall below Q1 - 1.5*IQR or above Q3 + 1.5*IQR are considered outliers. Do not consider missing values, as it was stated there are no missing values in this column.",
+      "format": "@outliers_count[count] where 'count' is a non-negative integer."
+    },
+    {
+      "id": 555,
+      "question": "How many unique plant species (represented by unique SPP_SYMBOL values) are there in the dataset, where each species has at least 5 observations?",
+      "constraints": "Count unique SPP_SYMBOL values that appear at least 5 times.",
+      "format": "@unique_species_count[species_count] where \"species_count\" is an integer."
+    }
+  ],
+  "format_scope": "Original format fields specify result identities and numeric precision. The current deliverable is a natural-language report; the upstream @field[value] syntax is not required."
+}

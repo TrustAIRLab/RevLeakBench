@@ -1,0 +1,7 @@
+The X-coordinate and Y-coordinate have Pearson correlation -0.868.
+
+The X-coordinate has mean -259162995.016 and sample standard deviation 53529181.172.
+
+The X-coordinate and Z-coordinate have Pearson correlation 0.83.
+
+The Z-coordinate has 0 IQR outliers under the 1.5-IQR rule.

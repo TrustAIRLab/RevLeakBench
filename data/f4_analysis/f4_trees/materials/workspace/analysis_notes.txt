@@ -1,0 +1,7 @@
+There are 29 distinct SPP_SYMBOL values with at least five observations each.
+
+HT_M and BA_M2 have Pearson correlation 0.806.
+
+The TPH_PLT column has 3131 IQR outliers.
+
+The forest inventory mean DBH_CM is 37.96.

@@ -1,0 +1,7 @@
+The daily high-minus-low price range has mean 16.65, median 15.67, and sample standard deviation 6.72.
+
+The Pearson correlation between Godrej high and low prices is 0.99.
+
+The mean Godrej closing price is 570.68.
+
+Under the Shapiro-Wilk test at alpha 0.05, normally distributed total traded quantity: no.

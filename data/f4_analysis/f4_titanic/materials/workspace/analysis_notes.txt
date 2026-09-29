@@ -1,0 +1,7 @@
+For male survivors, fare mean is 40.82 and sample standard deviation is 71.36; for male nonsurvivors these are 21.96 and 32.41. The difference in group mean fares is significant.
+
+Titanic passenger fares have pandas skewness 4.79.
+
+The population standard deviation of all passenger fares is 49.67.
+
+Male survivors who paid above the overall mean fare have median nonmissing age 31.5.

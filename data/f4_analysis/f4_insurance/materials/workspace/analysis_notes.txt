@@ -1,0 +1,7 @@
+The age-and-BMI linear regression has test RMSE 11464.74.
+
+The Pearson correlation between charges and number of children is 0.07.
+
+Under the specified absolute-skewness-below-0.5 criterion, the BMI distribution is normal.
+
+The insurance sample has mean age 39.21.

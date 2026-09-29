@@ -1,0 +1,30 @@
+{
+  "data_file": "insurance.csv",
+  "analysis_methods": [
+    {
+      "id": 24,
+      "question": "Calculate the mean age of the individuals in the dataset.",
+      "constraints": "Ignore rows with missing values in the age column. Use Python's built-in function to calculate the mean.",
+      "format": "@mean_age[value] where \"value\" is a number between 0 and 100, rounded to two decimal places."
+    },
+    {
+      "id": 25,
+      "question": "Check if the distribution of BMI values in the dataset follows a normal distribution.",
+      "constraints": "Consider the distribution as normal if the absolute value of skewness is less than 0.5. Calculate skewness using Python's built-in function.",
+      "format": "@bmi_distribution[status] where \"status\" is a string that can either be \"normal\" or \"not_normal\", based on the conditions specified in the constraints."
+    },
+    {
+      "id": 26,
+      "question": "Calculate the correlation coefficient between the charges incurred by individuals and the number of children they have.",
+      "constraints": "Ignore rows with missing values in charges and children columns. Calculate the Pearson correlation coefficient.",
+      "format": "@correlation_coefficient[value] where \"value\" is a number between -1 and 1, rounded to two decimal places."
+    },
+    {
+      "id": 30,
+      "question": "Create a linear regression machine learning model using the Scikit-learn library to predict the medical charges based on the age and BMI of individuals. Evaluate the performance of the model using the Root Mean Square Error (RMSE) evaluation metric only.",
+      "constraints": "Use the linear regression model available in the Scikit-Learn library. Split the data into training and testing sets with 80% of the data used for training and 20% used for testing. Use a random state of 42 for the split. The predictor variables are 'age' and 'bmi', and the target variable is 'charges'. Implement RMSE for the model evaluation. Ignore any row with missing values present in these three columns for this analysis.",
+      "format": "@model_rmse[RMSE_value], where RMSE value is a positive number rounded to two decimal places."
+    }
+  ],
+  "format_scope": "Original format fields specify result identities and numeric precision. The current deliverable is a natural-language report; the upstream @field[value] syntax is not required."
+}

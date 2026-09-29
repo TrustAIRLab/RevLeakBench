@@ -1,0 +1,9 @@
+The prevalence of gardening-introduced non-native plants differs between urban/cropland habitats and natural habitats.
+
+There is a relationship between the degree of urban land use and the proportion of gardening-introduced non-native plants. The relation is positive with a coefficient of 0.22.
+
+There is a significant interaction between urban land use and elevation on the proportion of gardening-introduced non-native plants.
+
+Introduction pathways interact with minimum residence time where unintentionally introduced plants become more successful over time compared to those introduced through other pathways.
+
+Over the past millennium (time periods ranging from before 1500 to 2019), gardening has replaced agriculture as the main contributor to the non-native flora.

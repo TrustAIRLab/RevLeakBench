@@ -1,0 +1,30 @@
+{
+  "data_file": "ravenna_250715.csv",
+  "analysis_methods": [
+    {
+      "id": 683,
+      "question": "1. What is the mean temperature recorded in the dataset?",
+      "constraints": "Calculate the mean temperature to two decimal places. No missing values in the temperature data.",
+      "format": "@mean_temperature[value], where \"value\" is a number representing the mean temperature, rounded to two decimal places."
+    },
+    {
+      "id": 684,
+      "question": "2. Does the humidity level in the dataset adhere to a normal distribution?",
+      "constraints": "Use the Shapiro-Wilk test with a significance level (alpha) of 0.05 to determine if the distribution of the humidity level adheres to a normal distribution. Report the p-value associated with the test. If the p-value is greater than 0.05, it can be considered as normally distributed; otherwise, it is not.",
+      "format": "@shapiro_p_value[value] @distribution_type[type], where \"value\" is a number representing the p-value from the Shapiro-Wilk test, rounded to four decimal places, and \"type\" is a string that can either be \"normal\" or \"not normal\" based on the p-value."
+    },
+    {
+      "id": 685,
+      "question": "3. Is there a correlation between the atmospheric pressure and wind speed in the dataset?",
+      "constraints": "Calculate the Pearson correlation coefficient (r) to assess the strength and direction of the linear relationship between atmospheric pressure and wind speed. Assess the significance of the correlation using a two-tailed test with a significance level (alpha) of 0.05. Report the p-value associated with the correlation test. Consider the relationship to be significant if the p-value is less than 0.05.",
+      "format": "@correlation_coefficient[r_value] @p_value[value] @relationship_significance[significance], where \"r_value\" is a number between -1 and 1, rounded to two decimal places, \"value\" is a number representing the p-value from the correlation test, rounded to four decimal places, and \"significance\" is a string that can either be \"significant\" or \"not significant\" based on the p-value."
+    },
+    {
+      "id": 690,
+      "question": "2. Perform outlier detection on the wind speed column using Z-scores. Identify the number of outliers and provide the values of the outliers. After removing the outliers, calculate the mean and standard deviation of the wind speed column.",
+      "constraints": "Identify outliers using Z-score method considering points that have Z-score greater than 3 or less than -3 as outliers. After outlier detection, remove these identified outliers from the dataset and calculate the mean and standard deviation of the wind speed column.",
+      "format": "@number_of_outliers[integer] @mean_wind_speed[number, rounded to 2 decimal places] @std_deviation_wind_speed[number, rounded to 2 decimal places]"
+    }
+  ],
+  "format_scope": "Original format fields specify result identities and numeric precision. The current deliverable is a natural-language report; the upstream @field[value] syntax is not required."
+}

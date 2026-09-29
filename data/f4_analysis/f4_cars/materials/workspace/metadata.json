@@ -1,0 +1,30 @@
+{
+  "data_file": "auto-mpg.csv",
+  "analysis_methods": [
+    {
+      "id": 719,
+      "question": "1. Calculate the mean and median of the 'mpg' column.",
+      "constraints": "Calculate the mean and median of the 'mpg' column without excluding any data. Round your results to two decimal places.",
+      "format": "@mean_mpg[mean_value], @median_mpg[median_value] where 'mean_value' and 'median_value' are numbers rounded to two decimal places."
+    },
+    {
+      "id": 721,
+      "question": "3. Find the correlation coefficient between the 'mpg' and 'weight' columns.",
+      "constraints": "Calculate the Pearson correlation coefficient (r) to assess the strength and direction of the linear relationship between mpg and weight. Round r to two decimal places.",
+      "format": "@correlation_coefficient[r_value] where 'r_value' is a number between -1 and 1, rounded to two decimal places."
+    },
+    {
+      "id": 724,
+      "question": "3. Perform outlier detection on the 'acceleration' column using the Z-score method. Identify any outliers and remove them from the dataset. Recalculate the mean and standard deviation of the 'acceleration' column after removing the outliers.",
+      "constraints": "Consider observations as outliers if their Z-scores are outside of the -3 to 3 range. For the \"average acceleration\" after outlier removal, calculate it using the arithmetic mean formula. Calculate the standard deviation using the population standard deviation formula, not the sample standard deviation formula. Round both measures to two decimal places.",
+      "format": "@mean_acceleration[avg_acceleration]\n@std_acceleration[acceleration_std]\nwhere \"avg_acceleration\" and \"acceleration_std\" are numbers rounded to two decimal places."
+    },
+    {
+      "id": 726,
+      "question": "2. Perform comprehensive data preprocessing on the 'horsepower' column. Handle any missing values by imputing them with the mean horsepower value. Then, transform the 'horsepower' column by applying a log transformation. Calculate the mean and standard deviation of the transformed 'horsepower' column.",
+      "constraints": "{\n- Handle missing values by imputing them with the mean 'horsepower'.\n- Log-transformation should be a natural logarithm (base e).\n- Mean and standard deviation should be calculated after the transformation and rounding to two decimal places.\n}",
+      "format": "{\n@mean_transformed_horsepower[mean_transformed_horsepower]\n@stddev_transformed_horsepower[stddev_transformed_horsepower]\nwhere \"mean_transformed_horsepower\" is the mean of the transformed 'horsepower' and \"stddev_transformed_horsepower\" is the standard deviation of the transformed 'horsepower'. Each value should be a float, rounded to two decimal places."
+    }
+  ],
+  "format_scope": "Original format fields specify result identities and numeric precision. The current deliverable is a natural-language report; the upstream @field[value] syntax is not required."
+}

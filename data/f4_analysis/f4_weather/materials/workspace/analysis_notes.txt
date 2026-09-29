@@ -1,0 +1,7 @@
+Pressure and wind speed have Pearson correlation 0.34, with two-sided p-value 0.1023.
+
+Humidity has Shapiro-Wilk p-value 0.9166, classified normal at alpha 0.05.
+
+Wind-speed z-score filtering finds 0 outliers; the retained mean is 2.29 and sample standard deviation is 1.15.
+
+The Ravenna observations have mean temperature 29.14.

@@ -1,0 +1,11 @@
+Original studies in Psychology tend to receive more citations compared to those in Experimental Economics (number of citations: Experimental Economics: 80, Psychology: 84), suggesting potential differences in the impact or visibility of research across disciplines.
+
+The effect size estimates tend to be larger in original studies compared to replication studies across both the Experimental Economics and Psychology domains. In Experimental Economics, the average effect estimate on the Fisher-z scale in original studies is 0.57, compared to 0.31 in replication studies. In Psychology, the average is 0.5 in original studies versus 0.24 in replication studies.
+
+In Experimental Economics, all original and replication studies used cash compensation for participants.
+
+Replication studies generally had higher planned statistical power compared to the observed power of the original studies across both the Experimental Economics and Psychology domains. In Experimental Economics, the average observed power in original studies was 0.85, while the average planned power in replication studies was 0.93. Similarly in Psychology, the observed power in original studies was 0.85, with the planned power in replication studies also at 0.93.
+
+Studies in Experimental Economics tend to have longer original papers compared to Psychology. The average length of original papers in Experimental Economics is 28 pages, whereas in Psychology, the average is 11 pages.
+
+Studies in the field of Experimental Economics tend to have a slightly higher number of authors for the replication studies compared to the original studies (number of authors: original: 2.7, replication: 3.3), possibly reflecting a trend towards larger research teams or collaborations for replication efforts.

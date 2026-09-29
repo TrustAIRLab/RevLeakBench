@@ -1,0 +1,7 @@
+HouseAge and MedianHouseValue have Pearson correlation 0.13, with two-sided p-value 0.0324.
+
+After MedInc IQR outlier removal, mean income is 3.73 and sample standard deviation is 1.54.
+
+RoomsPerPerson, defined in this task as AveRooms divided by Population, has Pearson correlation 0.0382 with MedianHouseValue.
+
+MedianHouseValue has mean 2.1226 and sample standard deviation 1.2210.

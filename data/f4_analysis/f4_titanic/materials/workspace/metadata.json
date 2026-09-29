@@ -1,0 +1,30 @@
+{
+  "data_file": "titanic.csv",
+  "analysis_methods": [
+    {
+      "id": 129,
+      "question": "Calculate the mean and standard deviation of the fare paid by the passengers.",
+      "constraints": "Calculate the arithmetic mean and population standard deviation (σ). For the mean, sum up all fare and divide by the count of the data points. For the standard deviation, use the formula:\nσ = sqrt(sum for i = 1 to n (xi - μ)^2/n), where xi is each fare and μ is the mean fare, n is the count of the fare data points.",
+      "format": "@mean_fare[mean_value] @std_dev_fare[std_dev_value] where \"mean_value\" and \"std_dev_value\" are decimal numbers rounded to two decimal places."
+    },
+    {
+      "id": 174,
+      "question": "Determine the skewness of the fares paid by the passengers on the Titanic.",
+      "constraints": "For the calculation of skewness, use the pandas DataFrame method skew(). No other method should be employed for calculation.",
+      "format": "@fare_skewness[fare_skew_value] \nwhere \"fare_skew_value\" is a floating-point number rounded to 2 decimal places."
+    },
+    {
+      "id": 176,
+      "question": "Calculate the median age of male passengers who survived and paid a fare greater than the average fare. Calulate only the ages that are not null.",
+      "constraints": "{\nAll null values in the \"Age\" column are not considered in the calculation.\nThe passengers considered for this question should meet all the following conditions: they are male; they survived; their fare is greater than the average fare.\n}",
+      "format": "{\n@median_age[median_age]\nwhere \"median_age\" is a number rounded to two decimal places."
+    },
+    {
+      "id": 415,
+      "question": "What is the distribution of fare paid by male passengers who survived? Are there any significant differences in the fare paid by male passengers who survived compared to male passengers who did not survive?",
+      "constraints": "Calculate the mean and standard deviation of fares paid by male passengers who survived and did not survive separately.\nConduct an independent sample t-test to compare the means of these two groups.\nUse a significance level of 0.05.\nReport whether there is a significant difference in the means based on the p-value of the test.",
+      "format": "@survived_fare_mean[mean_survived]\n@survived_fare_std[std_survived]\n@not_survived_fare_mean[mean_not_survived]\n@not_survived_fare_std[std_not_survived]\n@fare_difference_significance[significance]\nwhere \"mean_survived\" is the mean fare of male passengers who survived, rounded to two decimal places.\nwhere \"std_survived\" is the standard deviation of fare of male passengers who survived, rounded to two decimal places.\nwhere \"mean_not_survived\" is the mean fare of male passengers who did not survive, rounded to two decimal places.\nwhere \"std_not_survived\" is the standard deviation of fare of male passengers who did not survive, rounded to two decimal places.\nwhere \"significance\" is a string that can either be \"significant\" or \"not significant\" based on the conditions specified in the constraints."
+    }
+  ],
+  "format_scope": "Original format fields specify result identities and numeric precision. The current deliverable is a natural-language report; the upstream @field[value] syntax is not required."
+}

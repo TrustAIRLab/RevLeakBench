@@ -1,0 +1,7 @@
+After absolute-z-score-above-3 acceleration outlier removal, mean acceleration is 15.49 and population standard deviation is 2.68.
+
+mpg has mean 23.45 and median 22.75.
+
+After mean imputation and natural-log transformation, horsepower has mean 4.59 and sample standard deviation 0.34.
+
+mpg and weight have Pearson correlation -0.83.

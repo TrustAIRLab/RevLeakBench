@@ -1,0 +1,7 @@
+Negative and positive article sentiment scores have Pearson correlation -0.24.
+
+The compound sentiment score has mean 0.141 and sample standard deviation 0.899.
+
+After dropping negative-sentiment observations with absolute z-score above 3, the negative score has mean 0.07 and sample standard deviation 0.04.
+
+For ABC News articles, non-space text length has Pearson correlations -0.35 with positive sentiment and 0.42 with neutral sentiment.
