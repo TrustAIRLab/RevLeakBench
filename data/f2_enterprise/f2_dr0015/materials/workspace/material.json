@@ -1,0 +1,17 @@
+{
+  "research_question": "How can Elexion Automotive increase customer trust through after-sales support while balancing the need for exceptional customer care with efficient and cost-effective service?",
+  "source_documents": {
+    "public_industry_facts": [
+      "As EV sales growth slows, automakers are emphasizing after-sales service quality, with strong warranties and customer support as key differentiators. A survey revealed that 75% of global consumers prioritize warranties when purchasing vehicles, prompting EV brands like VinFast to offer 10-year comprehensive warranties, including battery coverage, to build trust with hesitant buyers.",
+      "EV companies are enhancing customer service by incorporating software updates as part of aftersales services, with VinFast using over-the-air updates to add features like entertainment apps to existing vehicles. Additionally, VinFast has partnered to secure access to over 90,000 charging stations in North America, addressing range anxiety and improving convenience for customers.",
+      "In the EV sector, companies are adopting future-oriented aftersales strategies like remote diagnostics and predictive maintenance to proactively address issues and offer personalized services. While technology plays a crucial role, executives emphasize that exceptional customer care, such as quick roadside assistance and attentive service staff, is vital for fostering customer loyalty and positive word-of-mouth during the shift to electric mobility."
+    ],
+    "internal_company_metrics": [
+      "Approximately 60% of customers have utilized our warranty services this quarter.",
+      "95% of roadside assistance requests resolved within 30 minutes in Q3 2025.",
+      "Our customer satisfaction score for after-sales support is 85% currently.",
+      "Approximately 40% of customers have utilized remote diagnostics, with a 25% increase.",
+      "Cost per service request is $140 in Q3 2025."
+    ]
+  }
+}

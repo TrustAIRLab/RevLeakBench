@@ -1,0 +1,15 @@
+{
+  "research_question": "By Q3 2026, how can Lee’s Market expand and optimize its IT self-service capabilities to reduce service desk dependency, accelerate resolution times, and improve both employee and customer experience across all stores?",
+  "source_documents": {
+    "public_industry_facts": [
+      "Atlassian describes its Jira Service Management virtual agent as providing always-on conversational support through collaboration tools.",
+      "Atlassian's virtual agent can generate answers using enterprise knowledge-base articles, onboarding guides, and FAQs.",
+      "Atlassian's virtual agent can transfer a support conversation to human experts without losing its context."
+    ],
+    "internal_company_metrics": [
+      "According to Lee’s Market Q2 2025 internal IT logs, 95 assistance tickets were submitted for updating seasonal produce pricing.",
+      "According to Lee’s Market internal tracking from Q2 2025, employees across multiple stores submitted an average of 480 duplicate IT requests every week, primarily for password resets and printer errors, due to a confusing self-service portal.",
+      "According to Lee’s Market internal logs from Q3 2025, requests related to online ordering system errors take the longest to resolve, averaging 2.5 hours per incident, due to a lack of clear self-service guidance."
+    ]
+  }
+}

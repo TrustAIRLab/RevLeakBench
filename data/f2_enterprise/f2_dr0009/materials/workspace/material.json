@@ -1,0 +1,17 @@
+{
+  "research_question": "How can MediConn Solutions leverage trendy new CRM solutions to improve patient engagement and retention, and what new CRM solutions are expected in 2025?",
+  "source_documents": {
+    "public_industry_facts": [
+      "Healthcare CRM systems are revolutionizing patient interactions by using data analysis and AI to enable personalized, proactive care management. This technology helps providers identify high-risk patients and intervene early, leading to improved health outcomes.",
+      "The global healthcare CRM market is expected to grow to approximately $30.65 billion by 2030, with a 7.7% CAGR from 2024, fueled by the increasing adoption of digital health solutions and the demand for improved patient engagement and operational efficiency.",
+      "By 2025, healthcare CRM will focus on AI-driven personalization and automation, integrating closely with chronic care management tools. Enhanced patient data security and cloud-based platforms will be prioritized to improve patient engagement and retention."
+    ],
+    "internal_company_metrics": [
+      "50,000 patients retained through AI-driven personalization by Q3 2025.",
+      "We project a patient retention rate of 80% by Q3 2025.",
+      "25% ROI expected on cloud-based CRM solutions by Q4 2025.",
+      "Patient engagement increases 40% with cloud CRM by Q3 2025.",
+      "35% of our patients are actively utilizing our CRM solution, with a 20% increase expected by Q2 2025."
+    ]
+  }
+}

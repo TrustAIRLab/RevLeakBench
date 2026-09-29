@@ -1,0 +1,17 @@
+{
+  "research_question": "Can we leverage AI-enhanced battery management to improve EV battery lifespan by 15%?",
+  "source_documents": {
+    "public_industry_facts": [
+      "AI-enhanced battery management systems can predict and maintain State-of-Health, enabling EV batteries to retain approximately 90 % of their original capacity even after 6.5 years of use.",
+      "Reinforcement learning–based energy management in PHEVs and FCEVs has shown measurable improvements in energy efficiency and real-time performance, outperforming conventional strategies.",
+      "Adaptive charging and routing strategies using pre-computed shortest-path trees have led to up to 97 % reductions in waiting times at charging stations in simulation studies."
+    ],
+    "internal_company_metrics": [
+      "$120,000 is the average cost of replacing an EV battery in our current fleet, as of Q4 2024.",
+      "40% of our current EV battery design features AI-enhanced battery management for our North American market as of Q2 2025.",
+      "Our current EV batteries average 5 years lifespan with 80% capacity retention.",
+      "75% of training sessions were completed, totaling 300 participants this year.",
+      "IT infrastructure cost was $2.3 million in Q3 2024."
+    ]
+  }
+}

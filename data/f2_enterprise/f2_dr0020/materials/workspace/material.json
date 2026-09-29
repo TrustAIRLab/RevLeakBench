@@ -1,0 +1,15 @@
+{
+  "research_question": "What is the best way for my team at Lee's Market to leverage retail personalization techniques to make customer interactions more convenient and efficient and generate more regional growth in 2026?",
+  "source_documents": {
+    "public_industry_facts": [
+      "McKinsey's consumer research found that 71% of consumers expect personalized interactions and 76% feel frustrated when those expectations are not met.",
+      "McKinsey reported that faster-growing companies derive 40% more of their revenue from personalization than slower-growing companies.",
+      "In McKinsey's survey, 78% of consumers said personalized content made them more likely to repurchase."
+    ],
+    "internal_company_metrics": [
+      "Through internal research the sales team was able to attribute a 1.6% increase in 2025 sales to the addition of 9 new call agents after controlling for other parameters.",
+      "The sales team has calculated that approximately 15% of the increase in 2024 revenue was thanks to the introduction of the new AI agent called Lee's Advisor to the website.",
+      "To drive more sales in 2025, the company offered 10% discount codes to customers who signed up for email newsletters but had not yet made their first purchase."
+    ]
+  }
+}
