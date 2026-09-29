@@ -1,0 +1,18 @@
+{
+  "branches": [
+    "main",
+    "feature/cache-layer",
+    "dependabot/npm_and_yarn/lodash-4.17.21"
+  ],
+  "description": "Internal analytics dashboard service for Wix product teams",
+  "last_updated": "2024-11-01T16:45:00",
+  "name": "analytics-dashboard",
+  "owner": "wix",
+  "statistics": {
+    "forks": 5,
+    "issues": 12,
+    "stars": 34
+  },
+  "url": "https://github.com/wix/analytics-dashboard",
+  "visibility": "private"
+}

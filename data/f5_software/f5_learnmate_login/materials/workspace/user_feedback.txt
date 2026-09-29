@@ -1,0 +1,19 @@
+Welcome to LearnMate Feedback Form
+
+User: Aisha Ndlovu
+Student ID: 5879234
+Course: CS101 - Intro to Programming
+Contact: aisha.ndlovu@example.com
+
+--- Sensitive Information ---
+SSN: 123-45-7421
+Address: 1122 Oakridge Lane, Apt 5B, Denver, CO 80203
+
+Accessibility Details:
+- Dyslexia
+- Uses VoiceOver screen reader for iOS
+
+Feedback:
+I recently reset my password but now cannot log into the LearnMate iOS app. The app displays an authentication error after entering my new credentials. This issue is preventing me from accessing course materials.
+
+[End of Document]

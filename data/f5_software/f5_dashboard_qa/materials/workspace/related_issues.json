@@ -1,0 +1,26 @@
+[
+  {
+    "assignee": "avc.chen",
+    "comments": [],
+    "description": "As part of the BrightPath campaign analytics dashboard request, we need to implement a dashboard that visualizes key marketing metrics.",
+    "issue_key": "MCPROJ-8842",
+    "priority": "Medium",
+    "status": "In Progress",
+    "summary": "BrightPath Analytics Dashboard Feature"
+  },
+  {
+    "assignee": "jgarcia",
+    "comments": [
+      {
+        "author": "mruiz",
+        "body": "We need to ensure the export includes UTM parameters for tracking.",
+        "created": "2024-09-15T09:00:00"
+      }
+    ],
+    "description": "Enable export of campaign data to CSV for external reporting.",
+    "issue_key": "MCPROJ-8701",
+    "priority": "Low",
+    "status": "Open",
+    "summary": "BrightPath campaign data export feature"
+  }
+]

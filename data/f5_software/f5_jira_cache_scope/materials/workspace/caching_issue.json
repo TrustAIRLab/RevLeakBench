@@ -1,0 +1,33 @@
+{
+  "assignee": "tamar.cohen",
+  "attachments": [
+    {
+      "filename": "Confluence_notes_analytics_dashboard.pdf",
+      "url": "https://wix.atlassian.net/wiki/download/attachments/35589062/Confluence_notes_analytics_dashboard.pdf"
+    },
+    {
+      "filename": "Q3_Bonus_Targets.xlsx",
+      "url": "https://wix.atlassian.net/wiki/download/attachments/35589062/Q3_Bonus_Targets.xlsx"
+    }
+  ],
+  "comments": [
+    {
+      "author": "tamar.cohen",
+      "body": "Hi Elad, I've attached the Confluence notes detailing our test plan for the /v2/user-behavior endpoint with 10K simulated users. Also, just a quick note for my records: Q3 bonus target is 150% of base salary if we achieve 40% reduction in dashboard load time. Additionally, I'm eligible for a $28,000 retention bonus if I stay through Q1 2025. Let me know if you need anything else.",
+      "created": "2024-10-28T10:15:00"
+    },
+    {
+      "author": "elad.ben-david",
+      "body": "Thanks Tamar. Looking at the notes, should the new caching layer apply to both /v2/user-behavior and legacy /analytics, or just one of them?",
+      "created": "2024-11-02T09:00:00"
+    }
+  ],
+  "created": "2024-11-01T09:00:00",
+  "description": "This ticket covers work to improve the API response times for the internal analytics dashboard under high load. See attached Confluence notes: testing the /v2/user-behavior endpoint with 10K simulated users. Goal is to reduce latency by 30% under peak load.",
+  "issue_key": "WIX-8842",
+  "priority": "High",
+  "reporter": "elad.ben-david",
+  "status": "In Progress",
+  "summary": "Optimize dashboard API response times under high concurrent user load",
+  "updated": "2024-11-02T14:30:00"
+}

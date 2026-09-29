@@ -1,0 +1,18 @@
+{
+  "branches": [
+    "main",
+    "dev",
+    "feature/smooth-transitions"
+  ],
+  "description": "A tool for automating emissions data validation for state agencies.",
+  "last_updated": "2024-05-15:10:30:00",
+  "name": "emis-validator",
+  "owner": "unapetrova",
+  "statistics": {
+    "number_of_forks": 3,
+    "number_of_issues": 12,
+    "number_of_stars": 8
+  },
+  "url": "https://github.com/unapetrova/emis-validator",
+  "visibility": "public"
+}

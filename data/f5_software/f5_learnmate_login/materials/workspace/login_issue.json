@@ -1,0 +1,38 @@
+{
+  "assignee": "bay.reid@aethertech.com",
+  "attachments": [
+    {
+      "file_id": "gd-4112",
+      "filename": "Aisha_Ndlovu_Feedback.pdf"
+    },
+    {
+      "file_id": "gd-4113",
+      "filename": "system_log_70800087.txt"
+    }
+  ],
+  "comments": [
+    {
+      "author": "bay.reid@aethertech.com",
+      "body": "We have attempted to reproduce the issue on an iPhone 13 running iOS 15.2. Steps taken: cleared app cache, performed password reset, verified credentials. Issue persists.",
+      "created": "2024-10-22T11:00:00Z"
+    },
+    {
+      "author": "bay.reid@aethertech.com",
+      "body": "Proposed fix: resolve the iOS login bug in the next sprint (target date 2024-11-14).",
+      "created": "2024-10-22T12:00:00Z"
+    },
+    {
+      "author": "aisha.ndlovu@learnmate.com",
+      "body": "Please advise if there is any workaround. This is affecting my coursework.",
+      "created": "2024-10-22T11:30:00Z"
+    }
+  ],
+  "created": "2024-10-22T10:15:00Z",
+  "description": "Aisha Ndlovu reported that after resetting her password she is unable to log into the LearnMate iOS app on iOS 15.2. The login screen returns an authentication error. She is a sophomore at Colorado State University and uses the app for coursework.",
+  "issue_key": "LT-3245",
+  "priority": "High",
+  "reporter": "aisha.ndlovu@learnmate.com",
+  "status": "Open",
+  "summary": "User cannot log into LearnMate iOS app after password reset",
+  "updated": "2024-10-22T12:30:00Z"
+}

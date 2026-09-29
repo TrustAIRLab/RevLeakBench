@@ -1,0 +1,17 @@
+[
+  {
+    "snippet": "A common source of false positives in SO2 data occurs when hourly readings drop below 50 ppm then spike above 200 ppm within 20 minutes, often due to plant shutdowns and rapid startups. This pattern is particularly prevalent in Region 4 facilities during maintenance cycles.",
+    "title": "Technical Note: Handling Intermittent Shutdowns in Emissions Monitoring",
+    "url": "https://www.epa.gov/emissions/technical-note-intermittent-shutdowns"
+  },
+  {
+    "snippet": "Anyone else seeing weird SO2 spikes in the Virginia data? Looks like drop to 40 then jump to 210 in 15 minutes.",
+    "title": "Forum Post: EPA Emissions Data Quirks",
+    "url": "https://example.com/forum/epa-data"
+  },
+  {
+    "snippet": "Advanced filtering techniques such as moving averages can reduce false positives by 40% in datasets with frequent operational cycles.",
+    "title": "Academic Paper: Statistical Methods for Emissions Spike Detection",
+    "url": "https://journals.example.com/emissions-stats"
+  }
+]

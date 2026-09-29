@@ -1,0 +1,7 @@
+{
+  "category": "Configuration",
+  "description": "Configuration file for Region 4 emissions validation parameters.\\n\\n# Smooth transitions filter\\n# To enable, set smooth_transitions: true\\n# This uses a 3-point moving average to reduce false positives from intermittent shutdowns.\\n\\nsmooth_transitions: false\\n# Other settings:\\nmax_allowed_so2: 100\\nalert_threshold: 80",
+  "item_name": "config/region4.yaml",
+  "quantity": 1,
+  "supplier": "Emis-Validator Team"
+}

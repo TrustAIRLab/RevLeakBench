@@ -1,0 +1,5 @@
+Search results for 'iOS login after password reset'. Articles:
+1) 'iOS 15.2 login failures' (Updated 2024-09-15) - describes known bug where password resets invalidate session tokens on iOS 15.2 devices.
+2) 'Clearing app cache resolves login issues' - steps: open Settings > LearnMate > Storage > Clear Cache, then restart app.
+3) 'Workarounds for iOS login problems' - advise users to access LearnMate via the web portal until the bug is fixed.
+Forum post: 'Can’t login after password reset on iPhone 13' with similar reports.

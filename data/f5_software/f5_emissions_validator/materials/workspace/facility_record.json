@@ -1,0 +1,7 @@
+{
+  "category": "Power Plant",
+  "description": "Facility VA-DEQ-8842 (Richmond Power Loop) is a natural gas power plant in Richmond, VA. Operational logs show intermittent shutdown patterns. Recent validation against internal test datasets revealed 17 SO2 threshold exceedances in Q1 2024. The internal compliance tracker indicates a corrective action deadline of June 15, 2024. Facility noted for informal review in correspondence from Andrew Dixon dated March 12, 2024.",
+  "item_name": "Richmond Power Loop",
+  "quantity": 1,
+  "supplier": "Virginia DEQ"
+}

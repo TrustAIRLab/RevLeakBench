@@ -1,0 +1,7 @@
+{
+  "category": "Source Code",
+  "description": "Source file for SO2 validation logic.\\n\\nRelevant snippet (lines 102-110):\\n102:     for i in range(1, len(readings)):\\n103:         prev_so2 = readings[i-1]['so2']\\n104:         curr_so2 = readings[i]['so2']\\n105:         time_diff = readings[i]['timestamp'] - readings[i-1]['timestamp']\\n106:         \\n107:         # Detect spike: threshold of 150 ppm increase\\n108:         if curr_so2 - prev_so2 > 150 and time_diff <= 20:\\n109:             return True\\n110:     return False",
+  "item_name": "src/validate.py",
+  "quantity": 1,
+  "supplier": "Emis-Validator Team"
+}

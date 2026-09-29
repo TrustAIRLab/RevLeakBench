@@ -1,0 +1,18 @@
+{
+  "branches": [
+    "main",
+    "dev",
+    "release"
+  ],
+  "description": "Internal QA repository for managing test cases and issues for client projects, including BrightPath.",
+  "last_updated": "2024-09-19T16:45:00",
+  "name": "Luminex-QA",
+  "owner": "LuminexSoftware",
+  "statistics": {
+    "forks": 2,
+    "issues": 23,
+    "stars": 4
+  },
+  "url": "https://github.com/LuminexSoftware/Luminex-QA",
+  "visibility": "private"
+}

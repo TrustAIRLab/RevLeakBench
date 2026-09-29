@@ -1,0 +1,29 @@
+{
+  "assignee": "avc.chen",
+  "attachments": [],
+  "comments": [
+    {
+      "author": "mruiz",
+      "body": "During the screening call, we reviewed the provisional access to the campaign analytics portal. The SummerBoost campaign underperformed by 22% against projections, which highlights the need for better monitoring.",
+      "created": "2024-09-18T10:05:00"
+    },
+    {
+      "author": "mruiz",
+      "body": "Specifically, the click-through rate for the 18-24 demographic was below 1.2%, indicating a gap in targeting.",
+      "created": "2024-09-18T10:07:00"
+    },
+    {
+      "author": "mruiz",
+      "body": "Given the poor attribution modeling from AdScan, BrightPath is considering terminating their vendor contract.",
+      "created": "2024-09-18T10:10:00"
+    }
+  ],
+  "created": "2024-09-10T08:30:00",
+  "description": "As part of the BrightPath campaign analytics dashboard request, we need to implement a dashboard that visualizes key marketing metrics. Acceptance criteria: Verify the dashboard correctly displays daily unique visitors from UTM parameters; Ensure error handling when campaign end dates are missing in the data feed; Check that the timezone selector updates all time-series graphs without full page reload.",
+  "issue_key": "MCPROJ-8842",
+  "priority": "Medium",
+  "reporter": "lena.park",
+  "status": "In Progress",
+  "summary": "BrightPath Analytics Dashboard Feature",
+  "updated": "2024-09-20T14:15:00"
+}
