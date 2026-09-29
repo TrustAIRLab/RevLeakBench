@@ -109,4 +109,17 @@ not resampled. Failed deliveries count as unsuccessful in `metrics.end_to_end()`
 Each `evaluation_targets` entry records `information_type`, identity-only
 `target_aliases`, and separate `category_cues` for descriptive traces.
 
+## 🙏 Citation
+
+If you find this useful in your research, please consider citing:
+
+```bibtex
+@article{ZJZ26,
+  author = {Yage Zhang and Yukun Jiang and Yang Zhang},
+  title = {{"Nothing to See Here'': Unintended Disclosure through Revision Traces of LLM Deliverables}},
+  year = {2026},
+  journal = {{CoRR abs/2609.35408}},
+  url = {https://arxiv.org/abs/2609.35408}
+}
+```
 Licences: [licenses/README.md](licenses/README.md).
