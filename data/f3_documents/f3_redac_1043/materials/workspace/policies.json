@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Ambiguity in scope requiring clarification",
+    "text": "All sensitive information related to contracts, internal procedures, and financial details must be strictly confidential and accessed only by authorized personnel to prevent exposure and mitigate risks arising from ambiguities and uncertainties."
+  },
+  {
+    "id": "Broker identity exposed",
+    "text": "Broker identity and contact information must be kept confidential and must not be disclosed or shared without proper authorization to prevent unauthorized access and protect privacy."
+  },
+  {
+    "id": "Budget constraints noted.",
+    "text": "All sensitive financial and contractual information must be kept strictly confidential and access limited to authorized personnel only to prevent any unauthorized disclosure."
+  },
+  {
+    "id": "Buyer identity disclosed",
+    "text": "All employees and associates must strictly prohibit the disclosure of sensitive information, including identities, contact details, business plans, project specifics, and any client or investor-related data to unauthorized persons or public channels to ensure confidentiality and prevent information exposure."
+  },
+  {
+    "id": "Details of planned work",
+    "text": "All sensitive project information, including plans, timelines, statuses, strategies, costs, and internal details, must be kept confidential and not disclosed outside authorized personnel."
+  },
+  {
+    "id": "Internal networking",
+    "text": "All internal information, including documents, data, processes, personnel details, and strategic plans, must be securely protected and accessible only to authorized personnel. Unauthorized access, sharing, or disclosure of such sensitive internal information is strictly prohibited."
+  },
+  {
+    "id": "Non-public financial reporting detail",
+    "text": "All non-public and unreleased financial, legal, governmental, political, strategic, and corporate information must be strictly protected and must not be accessed, shared, or disclosed without proper authorization to prevent exposure of sensitive data."
+  },
+  {
+    "id": "Strategic business plan",
+    "text": "All strategic business, financial, operational, legal, and diplomatic information must be classified as confidential and protected from unauthorized access or disclosure. Access to such sensitive information is restricted to authorized personnel with a legitimate business need. Sharing or communication of strategic information outside the organization or with unauthorized individuals is strictly prohibited to prevent exposure and maintain corporate confidentiality."
+  }
+]

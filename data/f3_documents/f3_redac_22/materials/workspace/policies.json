@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Business lead environment",
+    "text": "All sensitive information related to business leadership, strategic plans, regional distribution, employee contacts, key personnel availability, professional relationships, and office locations must be strictly protected. Access is limited to authorized personnel only, and disclosure to unauthorized parties is prohibited to prevent exposure of sensitive data."
+  },
+  {
+    "id": "Business status inference",
+    "text": "All sensitive corporate information, including but not limited to business strategies, financial details, negotiation terms, internal plans, and contact information, must be strictly protected and not disclosed without proper authorization to prevent exposure and potential harm to the organization."
+  },
+  {
+    "id": "Children's activities revealed.",
+    "text": "All employees must strictly avoid sharing or disclosing any sensitive personal information, including children's activities, family details, full names, personal contact information, and any other personally identifiable information (PII), to prevent unauthorized exposure and protect individual privacy."
+  },
+  {
+    "id": "Customer relationship management",
+    "text": "All sensitive business and customer information, including negotiation details, client identities, contact information, business relationships, and collaboration data, must be strictly protected and not disclosed without proper authorization to prevent exposure and maintain confidentiality."
+  },
+  {
+    "id": "Details of planned work",
+    "text": "All sensitive project information, including plans, timelines, statuses, strategies, costs, and internal details, must be kept confidential and not disclosed outside authorized personnel."
+  },
+  {
+    "id": "Involvement in technology demo revealed.",
+    "text": "All employees and contractors must ensure that sensitive information, including technology demos, VR technology usage, device details, technical specifications, tool usage, project testing status, development methods, resource evaluations, product orders, proprietary work, contributor identities, and app service details, is strictly confidential and must not be disclosed or shared without proper authorization."
+  },
+  {
+    "id": "Market interest rate disclosed",
+    "text": "All market-related information, including interest rates, price data, forecasts, strategies, and sentiment analyses, must be treated as confidential and must not be disclosed without proper authorization to prevent exposure of sensitive and proprietary information."
+  },
+  {
+    "id": "Product integration details.",
+    "text": "All sensitive product-related information, including integration details, design specifications, testing processes, performance data, and comparative analyses, must be strictly protected and accessed only by authorized personnel."
+  },
+  {
+    "id": "Risk management strategy",
+    "text": "All sensitive information related to risk management, including risk exposures, operational risks, financial risks, and security assessments, must be strictly protected against unauthorized access and disclosure. Access to such information is limited to authorized personnel only, and sharing outside of approved channels is prohibited to prevent exposure of sensitive data."
+  },
+  {
+    "id": "Sensitive personal movement details",
+    "text": "All movement details, travel plans, exact locations, times, and related personal or business information must be kept confidential and not disclosed to unauthorized parties."
+  },
+  {
+    "id": "Valuation date disclosed",
+    "text": "All employees and stakeholders must ensure that sensitive information—including valuation dates, confidential timelines, trading plans, detailed market behavior, financial forecasts, and pricing trends—are strictly protected and not disclosed outside authorized channels to prevent exposure and safeguard market integrity."
+  },
+  {
+    "id": "employment and location info",
+    "text": "All employees must not disclose or share any sensitive employment, location, identification, or personnel information, including job titles, work locations, personal contact details, and internal role assignments, to unauthorized individuals or external parties to protect privacy and maintain corporate confidentiality."
+  }
+]

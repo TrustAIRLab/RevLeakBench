@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Business lead environment",
+    "text": "All sensitive information related to business leadership, strategic plans, regional distribution, employee contacts, key personnel availability, professional relationships, and office locations must be strictly protected. Access is limited to authorized personnel only, and disclosure to unauthorized parties is prohibited to prevent exposure of sensitive data."
+  },
+  {
+    "id": "Corporate competitor disclosed",
+    "text": "All employees and contractors must strictly protect the confidentiality of sensitive corporate information, including but not limited to strategic plans, internal projects, personnel data, contact details, and any proprietary business information. Unauthorized disclosure or sharing of such information is strictly prohibited to safeguard the company's competitive position and operational integrity."
+  },
+  {
+    "id": "Implied phone existence",
+    "text": "Staff must not disclose any personal or direct contact information, including phone numbers, fax numbers, or email addresses, in public or unsecured communications."
+  },
+  {
+    "id": "Indicates privacy and confidentiality",
+    "text": "All sensitive and confidential information, including but not limited to internal communications, financial data, legal negotiations, and strategic plans, must be strictly protected and accessed only by authorized personnel. Unauthorized disclosure or distribution of such information is prohibited to ensure privacy and maintain confidentiality."
+  },
+  {
+    "id": "Internal company communication",
+    "text": "All sensitive internal information, including communications, strategies, personnel details, financial data, and operational plans, must be strictly protected. Access and disclosure are permitted only to authorized employees on a need-to-know basis. Unauthorized sharing, publishing, or external transmission of any internal information is strictly prohibited to prevent exposure and protect company confidentiality."
+  },
+  {
+    "id": "Sensitive admissions policy",
+    "text": "All sensitive admissions policies, university admission information, policy interests, and detailed educational backgrounds must be kept confidential to prevent unauthorized disclosure and protect academic freedom."
+  },
+  {
+    "id": "Use of 'Hey Buster John' and casual language",
+    "text": "All communications must use formal language and avoid casual expressions or unnecessary speech format details."
+  },
+  {
+    "id": "employment and location info",
+    "text": "All employees must not disclose or share any sensitive employment, location, identification, or personnel information, including job titles, work locations, personal contact details, and internal role assignments, to unauthorized individuals or external parties to protect privacy and maintain corporate confidentiality."
+  }
+]

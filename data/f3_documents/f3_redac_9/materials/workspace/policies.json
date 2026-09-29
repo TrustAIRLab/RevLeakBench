@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Engineering cost payment",
+    "text": "All sensitive financial and budgeting information, including cost payments, feedback on finance procedures, terms of financial facilities, equity negotiations, internal budgeting data, asset accounting details, planning assumptions, project schedules, cost center assignments, corporate pricing strategies, and equity splits, must be classified as confidential. Access to this information is strictly limited to authorized personnel, and employees must not disclose or share such information outside the authorized channels to prevent unauthorized exposure."
+  },
+  {
+    "id": "Internal family time constraint",
+    "text": "All sensitive internal information, including personal, professional, and organizational details, must be kept confidential and accessible only to authorized personnel. Unauthorized disclosure or sharing of such information is prohibited to protect privacy and organizational integrity."
+  },
+  {
+    "id": "Investment repayment detail",
+    "text": "All sensitive financial and transactional information, including repayment details, loan amounts, payment instructions, contract terms, profit sharing, and internal financial adjustments, must be strictly protected and not disclosed to unauthorized individuals to prevent exposure of confidential data."
+  },
+  {
+    "id": "Involvement in technology demo revealed.",
+    "text": "All employees and contractors must ensure that sensitive information, including technology demos, VR technology usage, device details, technical specifications, tool usage, project testing status, development methods, resource evaluations, product orders, proprietary work, contributor identities, and app service details, is strictly confidential and must not be disclosed or shared without proper authorization."
+  },
+  {
+    "id": "Personal experience disclosed",
+    "text": "All employees must ensure that no sensitive or personally identifiable information, including personal, family, financial, professional, or government-related details, is disclosed or accessible without proper authorization. Strict safeguards must be applied to protect such information from exposure."
+  },
+  {
+    "id": "Personal fitness routine disclosed.",
+    "text": "All employees must refrain from sharing or disclosing any personal lifestyle details, work and social plans, vacation or relocation information, personal projects, and achievements in any public or unsecured communication channels to safeguard sensitive information and maintain privacy."
+  },
+  {
+    "id": "Risk management strategy",
+    "text": "All sensitive information related to risk management, including risk exposures, operational risks, financial risks, and security assessments, must be strictly protected against unauthorized access and disclosure. Access to such information is limited to authorized personnel only, and sharing outside of approved channels is prohibited to prevent exposure of sensitive data."
+  },
+  {
+    "id": "Sensitive personal movement details",
+    "text": "All movement details, travel plans, exact locations, times, and related personal or business information must be kept confidential and not disclosed to unauthorized parties."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Business specifics of the property.",
+    "text": "All sensitive business and property-related information—including details of property specifications, business operations, corporate agreements, negotiations, tenant data, and commercial plans—must be protected and accessed only by authorized personnel to prevent unauthorized exposure and ensure confidentiality."
+  },
+  {
+    "id": "Change in work schedule",
+    "text": "All internal personnel information, including work schedules, role changes, contact details, and personal data, must be kept confidential and must not be disclosed to unauthorized individuals or external parties to prevent exposure of sensitive employee information."
+  },
+  {
+    "id": "Corporate competitor disclosed",
+    "text": "All employees and contractors must strictly protect the confidentiality of sensitive corporate information, including but not limited to strategic plans, internal projects, personnel data, contact details, and any proprietary business information. Unauthorized disclosure or sharing of such information is strictly prohibited to safeguard the company's competitive position and operational integrity."
+  },
+  {
+    "id": "Corporate structure inference",
+    "text": "All employees and contractors must avoid disclosing any sensitive corporate information, including organizational structure, personnel details, internal communications, project plans, business locations, and proprietary data, both internally and externally, to protect the company's confidentiality and security."
+  },
+  {
+    "id": "Implied phone existence",
+    "text": "Staff must not disclose any personal or direct contact information, including phone numbers, fax numbers, or email addresses, in public or unsecured communications."
+  },
+  {
+    "id": "Living location",
+    "text": "Do not share or disclose information about living locations, specific apartments, or detailed property specifications to protect privacy and prevent sensitive information exposure."
+  },
+  {
+    "id": "Sensitive personal movement details",
+    "text": "All movement details, travel plans, exact locations, times, and related personal or business information must be kept confidential and not disclosed to unauthorized parties."
+  },
+  {
+    "id": "Subscription detail revealed",
+    "text": "All subscription details and related information must be kept confidential and must not be disclosed to unauthorized individuals or systems to prevent exposure of sensitive data."
+  }
+]

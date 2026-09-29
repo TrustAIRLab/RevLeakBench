@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Contact information of official revealed",
+    "text": "All employees must ensure that no personal or sensitive contact information—including phone numbers, email addresses, or any personally identifiable information (PII)—is disclosed in any communication or document to prevent unauthorized exposure."
+  },
+  {
+    "id": "Discussion topics revealed",
+    "text": "All internal communications, meetings, plans, and strategic discussions must be kept confidential and must not be disclosed to unauthorized individuals."
+  },
+  {
+    "id": "Implied leadership action",
+    "text": "All personnel must refrain from sharing or disseminating sensitive information related to leadership actions, personal assignments, personnel involvement, internal decisions, bid details, meeting contexts, and communication activities to prevent unauthorized exposure."
+  },
+  {
+    "id": "Internal company communication",
+    "text": "All sensitive internal information, including communications, strategies, personnel details, financial data, and operational plans, must be strictly protected. Access and disclosure are permitted only to authorized employees on a need-to-know basis. Unauthorized sharing, publishing, or external transmission of any internal information is strictly prohibited to prevent exposure and protect company confidentiality."
+  },
+  {
+    "id": "Non-public financial reporting detail",
+    "text": "All non-public and unreleased financial, legal, governmental, political, strategic, and corporate information must be strictly protected and must not be accessed, shared, or disclosed without proper authorization to prevent exposure of sensitive data."
+  },
+  {
+    "id": "Privilege stated in text",
+    "text": "All privileged and classified information must be handled confidentially, with disclosure allowed only after internal approval and securing necessary consent. Unauthorized exposure of sensitive data is strictly prohibited."
+  },
+  {
+    "id": "Strategic business plan",
+    "text": "All strategic business, financial, operational, legal, and diplomatic information must be classified as confidential and protected from unauthorized access or disclosure. Access to such sensitive information is restricted to authorized personnel with a legitimate business need. Sharing or communication of strategic information outside the organization or with unauthorized individuals is strictly prohibited to prevent exposure and maintain corporate confidentiality."
+  },
+  {
+    "id": "employment and location info",
+    "text": "All employees must not disclose or share any sensitive employment, location, identification, or personnel information, including job titles, work locations, personal contact details, and internal role assignments, to unauthorized individuals or external parties to protect privacy and maintain corporate confidentiality."
+  }
+]

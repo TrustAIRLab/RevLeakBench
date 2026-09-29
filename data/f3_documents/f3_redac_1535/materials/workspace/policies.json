@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Corporate structure inference",
+    "text": "All employees and contractors must avoid disclosing any sensitive corporate information, including organizational structure, personnel details, internal communications, project plans, business locations, and proprietary data, both internally and externally, to protect the company's confidentiality and security."
+  },
+  {
+    "id": "EOL burden highlighted",
+    "text": "All software and systems must be kept up-to-date; use of end-of-life (EOL) software is prohibited."
+  },
+  {
+    "id": "Investment repayment detail",
+    "text": "All sensitive financial and transactional information, including repayment details, loan amounts, payment instructions, contract terms, profit sharing, and internal financial adjustments, must be strictly protected and not disclosed to unauthorized individuals to prevent exposure of confidential data."
+  },
+  {
+    "id": "Palestinian negotiation strategy",
+    "text": "All sensitive diplomatic information, including negotiation strategies, official communications, government appointments, and internal evaluations, must be strictly protected and shall not be disclosed or shared outside authorized channels to prevent exposure of confidential information and safeguard diplomatic relations."
+  },
+  {
+    "id": "Planned personnel trading restriction",
+    "text": "All sensitive personnel and financial information, including trading restrictions, equity adjustments, internal offers, and proprietary plans, must be strictly protected and not disclosed to unauthorized individuals."
+  },
+  {
+    "id": "Risk management strategy",
+    "text": "All sensitive information related to risk management, including risk exposures, operational risks, financial risks, and security assessments, must be strictly protected against unauthorized access and disclosure. Access to such information is limited to authorized personnel only, and sharing outside of approved channels is prohibited to prevent exposure of sensitive data."
+  },
+  {
+    "id": "Total deposit amount",
+    "text": "All users must ensure that no sensitive financial information—including credit card details, deposit amounts, loan terms, pricing strategies, internal financial data, or any confidential transactional and payment details—is disclosed or shared through any communication or documentation. Access to such information must be strictly controlled and restricted to authorized personnel only to prevent exposure of confidential data."
+  },
+  {
+    "id": "client event information",
+    "text": "All employees and contractors must strictly protect the confidentiality of internal event information, including details of meetings, schedules, locations, participants, and planning activities. Disclosure of such sensitive information to unauthorized individuals or external parties is prohibited to prevent exposure of private and corporate activities."
+  }
+]

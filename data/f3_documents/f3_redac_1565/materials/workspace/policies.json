@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Children's activities revealed.",
+    "text": "All employees must strictly avoid sharing or disclosing any sensitive personal information, including children's activities, family details, full names, personal contact information, and any other personally identifiable information (PII), to prevent unauthorized exposure and protect individual privacy."
+  },
+  {
+    "id": "Contact information of official revealed",
+    "text": "All employees must ensure that no personal or sensitive contact information—including phone numbers, email addresses, or any personally identifiable information (PII)—is disclosed in any communication or document to prevent unauthorized exposure."
+  },
+  {
+    "id": "Corporate competitor disclosed",
+    "text": "All employees and contractors must strictly protect the confidentiality of sensitive corporate information, including but not limited to strategic plans, internal projects, personnel data, contact details, and any proprietary business information. Unauthorized disclosure or sharing of such information is strictly prohibited to safeguard the company's competitive position and operational integrity."
+  },
+  {
+    "id": "Internal networking",
+    "text": "All internal information, including documents, data, processes, personnel details, and strategic plans, must be securely protected and accessible only to authorized personnel. Unauthorized access, sharing, or disclosure of such sensitive internal information is strictly prohibited."
+  },
+  {
+    "id": "Online viewing of personal trades",
+    "text": "All information related to trades, trading strategies, decisions, internal discussions, and proprietary data must be kept confidential and not disclosed or viewed outside authorized personnel to prevent exposure of sensitive corporate information."
+  },
+  {
+    "id": "Replacement personnel info",
+    "text": "All internal personnel and staffing information, including job changes, relocations, assignments, and recruitment details, must be kept confidential and only shared with authorized personnel."
+  },
+  {
+    "id": "Specific platform policy confidential",
+    "text": "All sensitive information including internal policies, leadership activities, operational plans, confidential deals, site visits, and user identities must be accessed only by authorized personnel and must not be shared externally to protect confidentiality and maintain security."
+  },
+  {
+    "id": "University affiliation implied",
+    "text": "All personal and professional information, including educational background, employment history, organizational affiliations, and mentorship details, must be protected and shall not be disclosed without explicit consent."
+  }
+]

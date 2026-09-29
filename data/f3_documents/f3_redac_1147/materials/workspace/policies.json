@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Implied from context and company focus",
+    "text": "All employees must ensure that sensitive information is accessed only by authorized individuals and must not be disclosed or exposed to unauthorized parties under any circumstances."
+  },
+  {
+    "id": "Implied political assessment",
+    "text": "All documents containing sensitive political, diplomatic, or operational information must be handled with strict confidentiality to prevent unauthorized disclosure and protect national security and personnel privacy."
+  },
+  {
+    "id": "Internal company communication",
+    "text": "All sensitive internal information, including communications, strategies, personnel details, financial data, and operational plans, must be strictly protected. Access and disclosure are permitted only to authorized employees on a need-to-know basis. Unauthorized sharing, publishing, or external transmission of any internal information is strictly prohibited to prevent exposure and protect company confidentiality."
+  },
+  {
+    "id": "Non-public trading probability data",
+    "text": "All non-public trading probability data must be securely stored and access restricted to authorized personnel only."
+  },
+  {
+    "id": "Organizational structure and infrastructure",
+    "text": "All organizational information related to structure, culture, strategy, and internal planning must be strictly confidential and protected from unauthorized access or disclosure."
+  },
+  {
+    "id": "Strategic business plan",
+    "text": "All strategic business, financial, operational, legal, and diplomatic information must be classified as confidential and protected from unauthorized access or disclosure. Access to such sensitive information is restricted to authorized personnel with a legitimate business need. Sharing or communication of strategic information outside the organization or with unauthorized individuals is strictly prohibited to prevent exposure and maintain corporate confidentiality."
+  },
+  {
+    "id": "employment and location info",
+    "text": "All employees must not disclose or share any sensitive employment, location, identification, or personnel information, including job titles, work locations, personal contact details, and internal role assignments, to unauthorized individuals or external parties to protect privacy and maintain corporate confidentiality."
+  },
+  {
+    "id": "residential address shared",
+    "text": "All employees and affiliates must strictly prohibit the sharing, publishing, or disclosure of any personal or corporate residential and physical address information, as well as any other personally identifiable information (PII), to prevent unauthorized exposure and protect privacy."
+  }
+]

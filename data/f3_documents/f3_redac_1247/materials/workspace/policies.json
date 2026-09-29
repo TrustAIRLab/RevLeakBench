@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Business specifics of the property.",
+    "text": "All sensitive business and property-related information—including details of property specifications, business operations, corporate agreements, negotiations, tenant data, and commercial plans—must be protected and accessed only by authorized personnel to prevent unauthorized exposure and ensure confidentiality."
+  },
+  {
+    "id": "Business status inference",
+    "text": "All sensitive corporate information, including but not limited to business strategies, financial details, negotiation terms, internal plans, and contact information, must be strictly protected and not disclosed without proper authorization to prevent exposure and potential harm to the organization."
+  },
+  {
+    "id": "Changing video content strategy",
+    "text": "All employees must ensure that sensitive and strategic business information, including content strategies, marketing plans, product development details, and corporate strategies, is kept confidential and not disclosed to unauthorized parties under any circumstances."
+  },
+  {
+    "id": "Customer relationship management",
+    "text": "All sensitive business and customer information, including negotiation details, client identities, contact information, business relationships, and collaboration data, must be strictly protected and not disclosed without proper authorization to prevent exposure and maintain confidentiality."
+  },
+  {
+    "id": "Reveals confidential schedule details",
+    "text": "All internal schedules, meeting details, travel plans, and related confidential information must be protected from unauthorized disclosure to prevent exposure of sensitive operational and personal data."
+  },
+  {
+    "id": "Risk management strategy",
+    "text": "All sensitive information related to risk management, including risk exposures, operational risks, financial risks, and security assessments, must be strictly protected against unauthorized access and disclosure. Access to such information is limited to authorized personnel only, and sharing outside of approved channels is prohibited to prevent exposure of sensitive data."
+  },
+  {
+    "id": "Strategic business plan",
+    "text": "All strategic business, financial, operational, legal, and diplomatic information must be classified as confidential and protected from unauthorized access or disclosure. Access to such sensitive information is restricted to authorized personnel with a legitimate business need. Sharing or communication of strategic information outside the organization or with unauthorized individuals is strictly prohibited to prevent exposure and maintain corporate confidentiality."
+  },
+  {
+    "id": "Technical challenges disclosed",
+    "text": "All technical information regarding challenges, data loss, risk management, limitations, event details, and integration requirements must be classified as sensitive and handled confidentially."
+  },
+  {
+    "id": "Unreleased corporate strategic speculation",
+    "text": "All unreleased and sensitive corporate information, including but not limited to strategic plans, product details, operational procedures, and private discussions, must be strictly confidential and not disclosed outside authorized personnel."
+  },
+  {
+    "id": "employment and location info",
+    "text": "All employees must not disclose or share any sensitive employment, location, identification, or personnel information, including job titles, work locations, personal contact details, and internal role assignments, to unauthorized individuals or external parties to protect privacy and maintain corporate confidentiality."
+  }
+]

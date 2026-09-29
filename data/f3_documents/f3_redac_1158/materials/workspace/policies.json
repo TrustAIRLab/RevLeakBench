@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Budget constraints noted.",
+    "text": "All sensitive financial and contractual information must be kept strictly confidential and access limited to authorized personnel only to prevent any unauthorized disclosure."
+  },
+  {
+    "id": "Business status inference",
+    "text": "All sensitive corporate information, including but not limited to business strategies, financial details, negotiation terms, internal plans, and contact information, must be strictly protected and not disclosed without proper authorization to prevent exposure and potential harm to the organization."
+  },
+  {
+    "id": "Change in work schedule",
+    "text": "All internal personnel information, including work schedules, role changes, contact details, and personal data, must be kept confidential and must not be disclosed to unauthorized individuals or external parties to prevent exposure of sensitive employee information."
+  },
+  {
+    "id": "Customer relationship management",
+    "text": "All sensitive business and customer information, including negotiation details, client identities, contact information, business relationships, and collaboration data, must be strictly protected and not disclosed without proper authorization to prevent exposure and maintain confidentiality."
+  },
+  {
+    "id": "Non-public contingency plans",
+    "text": "All non-public and confidential information—including legal, financial, strategic, employee, and communication details—must be protected from unauthorized access or disclosure to prevent exposure of sensitive organizational information."
+  },
+  {
+    "id": "Regulatory filing strategy",
+    "text": "All sensitive information related to regulatory filings, legal standards, strategic planning, internal processes, and government communications must remain strictly confidential and only accessible to authorized personnel. Disclosure outside authorized parties is prohibited to protect compliance, legal integrity, and corporate interests."
+  },
+  {
+    "id": "Secure government transport details",
+    "text": "All sensitive government information, including security details, classified documents, official travel plans, internal communications, and operational specifics, must be strictly protected and never disclosed outside authorized channels to prevent exposure and ensure national security."
+  },
+  {
+    "id": "Sensitive client feedback and outcome",
+    "text": "All sensitive client information, internal business status, media communications, and customer details must be strictly confidential and protected from unauthorized access or disclosure."
+  }
+]

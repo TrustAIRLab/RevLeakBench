@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Corporate competitor disclosed",
+    "text": "All employees and contractors must strictly protect the confidentiality of sensitive corporate information, including but not limited to strategic plans, internal projects, personnel data, contact details, and any proprietary business information. Unauthorized disclosure or sharing of such information is strictly prohibited to safeguard the company's competitive position and operational integrity."
+  },
+  {
+    "id": "Corporate structure inference",
+    "text": "All employees and contractors must avoid disclosing any sensitive corporate information, including organizational structure, personnel details, internal communications, project plans, business locations, and proprietary data, both internally and externally, to protect the company's confidentiality and security."
+  },
+  {
+    "id": "Details of planned work",
+    "text": "All sensitive project information, including plans, timelines, statuses, strategies, costs, and internal details, must be kept confidential and not disclosed outside authorized personnel."
+  },
+  {
+    "id": "Full name disclosed",
+    "text": "All personnel must avoid disclosing full names or any personal names in communications and documents to prevent unauthorized exposure of sensitive personal information."
+  },
+  {
+    "id": "Internal labor costs",
+    "text": "All employee-related information, including job titles, employment history, work schedules, roles, and contact details, must be treated as confidential and protected from unauthorized disclosure."
+  },
+  {
+    "id": "Name and ID number pair.",
+    "text": "All employees and users must strictly avoid sharing or disclosing any sensitive information, including personally identifiable information (PII), access credentials, and contact details, to prevent unauthorized exposure and ensure data privacy and security."
+  },
+  {
+    "id": "University affiliation implied",
+    "text": "All personal and professional information, including educational background, employment history, organizational affiliations, and mentorship details, must be protected and shall not be disclosed without explicit consent."
+  },
+  {
+    "id": "Unreleased corporate strategic speculation",
+    "text": "All unreleased and sensitive corporate information, including but not limited to strategic plans, product details, operational procedures, and private discussions, must be strictly confidential and not disclosed outside authorized personnel."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Implied phone existence",
+    "text": "Staff must not disclose any personal or direct contact information, including phone numbers, fax numbers, or email addresses, in public or unsecured communications."
+  },
+  {
+    "id": "Internal company communication",
+    "text": "All sensitive internal information, including communications, strategies, personnel details, financial data, and operational plans, must be strictly protected. Access and disclosure are permitted only to authorized employees on a need-to-know basis. Unauthorized sharing, publishing, or external transmission of any internal information is strictly prohibited to prevent exposure and protect company confidentiality."
+  },
+  {
+    "id": "Internal operational protocol",
+    "text": "All internal operational information, including protocols, plans, timings, vulnerabilities, and management details, must be strictly protected and not disclosed outside authorized personnel to prevent exposure of sensitive information and safeguard organizational security."
+  },
+  {
+    "id": "Non-public financial reporting detail",
+    "text": "All non-public and unreleased financial, legal, governmental, political, strategic, and corporate information must be strictly protected and must not be accessed, shared, or disclosed without proper authorization to prevent exposure of sensitive data."
+  },
+  {
+    "id": "Partial troop presence noted",
+    "text": "All information related to troop deployments, military allegiances, operational strategies, multinational coordination, and military aid is strictly confidential and must not be disclosed to prevent exposure of sensitive military operations and ensure the security of personnel and missions."
+  },
+  {
+    "id": "Purchase channel details.",
+    "text": "Purchase channel details and service accessibility information must be kept confidential and must not be disclosed to unauthorized individuals to protect sensitive information."
+  },
+  {
+    "id": "Sensitive info publicly exposed",
+    "text": "All employees and affiliates must strictly safeguard sensitive, confidential, and classified information, including personal data, corporate contacts, access credentials, and proprietary business details. Such information must not be disclosed publicly or shared without proper authorization. Any communication containing confidentiality notices or sensitive content must be handled securely to maintain data integrity and prevent unauthorized access."
+  },
+  {
+    "id": "Strategic business plan",
+    "text": "All strategic business, financial, operational, legal, and diplomatic information must be classified as confidential and protected from unauthorized access or disclosure. Access to such sensitive information is restricted to authorized personnel with a legitimate business need. Sharing or communication of strategic information outside the organization or with unauthorized individuals is strictly prohibited to prevent exposure and maintain corporate confidentiality."
+  }
+]

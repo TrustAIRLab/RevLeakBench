@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Business status inference",
+    "text": "All sensitive corporate information, including but not limited to business strategies, financial details, negotiation terms, internal plans, and contact information, must be strictly protected and not disclosed without proper authorization to prevent exposure and potential harm to the organization."
+  },
+  {
+    "id": "Corporate competitor disclosed",
+    "text": "All employees and contractors must strictly protect the confidentiality of sensitive corporate information, including but not limited to strategic plans, internal projects, personnel data, contact details, and any proprietary business information. Unauthorized disclosure or sharing of such information is strictly prohibited to safeguard the company's competitive position and operational integrity."
+  },
+  {
+    "id": "Implied from context and company focus",
+    "text": "All employees must ensure that sensitive information is accessed only by authorized individuals and must not be disclosed or exposed to unauthorized parties under any circumstances."
+  },
+  {
+    "id": "Market interest rate disclosed",
+    "text": "All market-related information, including interest rates, price data, forecasts, strategies, and sentiment analyses, must be treated as confidential and must not be disclosed without proper authorization to prevent exposure of sensitive and proprietary information."
+  },
+  {
+    "id": "Nickname revealing personal identity",
+    "text": "All sensitive personal and professional information, including nicknames, recipient and project member identities, contributor details, names linked to companies, institutional affiliations, and sender email addresses, must be kept confidential and not disclosed in any public or unauthorized communications."
+  },
+  {
+    "id": "Referenced regulatory definition",
+    "text": "All sensitive information must be accessed and shared only by authorized personnel in accordance with applicable regulatory definitions to prevent unauthorized exposure."
+  },
+  {
+    "id": "Valuation date disclosed",
+    "text": "All employees and stakeholders must ensure that sensitive information—including valuation dates, confidential timelines, trading plans, detailed market behavior, financial forecasts, and pricing trends—are strictly protected and not disclosed outside authorized channels to prevent exposure and safeguard market integrity."
+  },
+  {
+    "id": "residential address shared",
+    "text": "All employees and affiliates must strictly prohibit the sharing, publishing, or disclosure of any personal or corporate residential and physical address information, as well as any other personally identifiable information (PII), to prevent unauthorized exposure and protect privacy."
+  }
+]
